@@ -3,7 +3,7 @@ let Amigos = [];
 function agregarAmigo(){
      
      let amigo = document.getElementById('amigo').value;
-     if (isNaN(amigo)==true || amigo == '' || amigo == ' '){//VERIFICA SI NO ES UN NUMERO, ESTA VACIO O ES UN ESPACIO
+     if (amigo !== '' && !/\d/.test(amigo)){//VERIFICA SI NO ES UN NUMERO, ESTA VACIO O ES UN ESPACIO \D BUSCA NUMERO EN LA CADENA .TEST EVALUA A AMIGO ! NEGACION
         Amigos.push(amigo);
      }else{
         alert('Ingrese un nombre valido');
