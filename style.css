@@ -115,6 +115,7 @@ button {
     cursor: pointer;
 }
 
+
 .button-add {
     background-color: var(--color-tertiary);
     color: var(--color-text);
@@ -132,6 +133,7 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+    text-align: center;
 }
 
 .result-list {
