@@ -14,3 +14,6 @@ Tecnologias usadas:
 - JavaScript
 - HTML
 - CSS
+
+## Autor
+<img src="https://avatars.githubusercontent.com/u/123611473" width=115><br><sub>Bernardo Angel</sub>](https://github.com/angel010896)
