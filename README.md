@@ -8,7 +8,7 @@
    <img src="https://img.shields.io/badge/Status-Terminado-blue?style=flat-square">
    </p>
 
-Proyecto de busqueda de amigo secreto aleatoriamente, el usuario ingresa en la caja de texto el nombre de un amigo, lo agrega y asi sucesivamente con el numero de amigos deseado. Cuando el usuario ingreso a todos los amigos que participaran en el sorteo, con el boton sortear amigo se eligira un amigo aleatoriamente y se mostrara en pantalla. 
+Proyecto de busqueda de amigo secreto aleatoriamente. El usuario ingresa en la caja de texto el nombre de un amigo, lo agrega y asi sucesivamente con el numero de amigos deseado. Cuando el usuario ingreso a todos los amigos que participaran en el sorteo, con el boton sortear amigo se eligira un amigo aleatoriamente y se mostrara en pantalla. 
 
 Tecnologias usadas:
 - JavaScript
