@@ -16,4 +16,4 @@ Tecnologias usadas:
 - CSS
 
 ## Autor
-<img src="https://avatars.githubusercontent.com/u/123611473" width=115><br><sub>Bernardo Angel</sub>](https://github.com/angel010896)
+[<img src="https://avatars.githubusercontent.com/u/123611473" width=115><br><sub>Bernardo Angel</sub>](https://github.com/angel010896)
